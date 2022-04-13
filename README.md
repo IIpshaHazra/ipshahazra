@@ -16,8 +16,8 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on this page
-<!-- - 🤔 I’m looking for help with ... -->
+- 🔭 I’m currently working on this page.
+- 🤔 I’m looking for help with webdev.
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: ipshahazra@gmail.com
 - 😄 Pronouns: She/Her
